@@ -1,2 +1,3 @@
+[root](index.md)  
 ## file 2
 lines of text...
